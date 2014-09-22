@@ -1,0 +1,22 @@
+.heading{
+	text-align: center;
+}
+
+.navbar-brand {
+	background: url(../img/logo.png) 0 5px no-repeat;
+	background-size: 190px;
+	width: 202px;
+	padding: 10px 0 0 0;
+	text-indent: -1000px;
+	overflow: hidden;
+}
+
+.btn{
+	background-color: blue;
+	color: white;
+
+}
+
+.info{
+	font-size: 1.5em;
+}
